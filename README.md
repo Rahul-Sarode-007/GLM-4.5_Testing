@@ -8,7 +8,7 @@ This game was created using **GLM 4.5**, an advanced AI model capable of generat
 
 The entire game was generated using the following single prompt:
 
-Create a space shooter game using The game should demonstrate advanced animations, physics, and modular architecture. Include the following features:
+Create a space shooter game. The game should demonstrate advanced animations, physics, and modular architecture. Include the following features:
 
 Smooth player movement using velocity, acceleration, and friction (simulate inertia in space).
 
